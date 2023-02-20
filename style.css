@@ -1,0 +1,34 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#status
+{
+    background-color: bisque;
+    color: maroon;
+    font-size: medium;
+    padding: 10px;
+    margin:30px;
+}
+#number
+{
+    background-color: darkgoldenrod;
+    color: rebeccapurple;
+    font-size: medium;
+    padding: 10px;
+    margin:30px;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px red;
+    background-color: turquoise;
+    color: aqua;
+    padding: 5px;
+    margin-top: 60px;
+}
+
+a{
+    float: right;
+    background-color: white;
+}
